@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cinderithink.lol-svelte": "file:.."
+  }
+}
